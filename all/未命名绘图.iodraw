@@ -34,6 +34,24 @@
             <mxPoint x="-873" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="s2XWLFZcMkpfn7Vz91KI-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-382" y="596" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XWLFZcMkpfn7Vz91KI-26" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" source="s2XWLFZcMkpfn7Vz91KI-25" target="s2XWLFZcMkpfn7Vz91KI-25" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-389" y="634" as="sourcePoint" />
+            <mxPoint x="-339" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2XWLFZcMkpfn7Vz91KI-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" source="s2XWLFZcMkpfn7Vz91KI-25" target="s2XWLFZcMkpfn7Vz91KI-25" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="640" as="sourcePoint" />
+            <mxPoint x="-335" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-381" y="606" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
