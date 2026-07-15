@@ -377,12 +377,12 @@
         </mxCell>
         <mxCell id="s2XWLFZcMkpfn7Vz91KI-157" value="" style="endArrow=classic;html=1;rounded=0;textDirection=vertical-lr;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-188" y="-366" as="sourcePoint" />
-            <mxPoint x="-188" y="-289" as="targetPoint" />
+            <mxPoint x="-164" y="-366" as="sourcePoint" />
+            <mxPoint x="-164" y="-289" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s2XWLFZcMkpfn7Vz91KI-158" value="G&lt;sub style=&quot;font-size: 18px;&quot;&gt;T1&lt;/sub&gt;(S)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-223" y="-289" width="89" height="42.5" as="geometry" />
+          <mxGeometry x="-206" y="-280.5" width="89" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
