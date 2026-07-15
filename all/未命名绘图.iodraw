@@ -301,7 +301,7 @@
         </mxCell>
         <mxCell id="s2XWLFZcMkpfn7Vz91KI-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2XWLFZcMkpfn7Vz91KI-139">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="43" y="-365.75" as="targetPoint" />
+            <mxPoint x="111" y="-366" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s2XWLFZcMkpfn7Vz91KI-139" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;G&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;sub&gt;S20&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(S)&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10.215pt; font-family: TimesNewRomanPS-ItalicMT; font-style: italic;&quot;&gt;e &lt;/span&gt;&lt;sup&gt;&lt;span style=&quot;background-color: initial; font-size: 5.9588pt; font-family: Symbol;&quot;&gt;−&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 6.12822pt; font-family: Symbol; font-style: italic;&quot;&gt;τ&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 5.9588pt; font-family: TimesNewRomanPS-ItalicMT; font-style: italic;&quot;&gt;s&lt;/span&gt;&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
