@@ -79,13 +79,14 @@
         <mxCell id="s2XWLFZcMkpfn7Vz91KI-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;G&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;sub&gt;S&lt;/sub&gt;&lt;/span&gt;&lt;sub style=&quot;font-size: 18px;&quot;&gt;1&lt;/sub&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(S)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-309" y="492.5" width="89" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="s2XWLFZcMkpfn7Vz91KI-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2XWLFZcMkpfn7Vz91KI-46">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-34" y="514" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="s2XWLFZcMkpfn7Vz91KI-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2XWLFZcMkpfn7Vz91KI-46" target="s2XWLFZcMkpfn7Vz91KI-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s2XWLFZcMkpfn7Vz91KI-46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;G&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;sub&gt;S2&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(S)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-188" y="492.5" width="89" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XWLFZcMkpfn7Vz91KI-51" value="" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-34.5" y="483.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
