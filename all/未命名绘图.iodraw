@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2XWLFZcMkpfn7Vz91KI-87" value="G&lt;sub style=&quot;font-size: 18px;&quot;&gt;T1&lt;/sub&gt;(S)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="s2XWLFZcMkpfn7Vz91KI-87" value="k&lt;sub&gt;m1&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-458" y="672" width="89" height="42.5" as="geometry" />
         </mxCell>
       </root>
