@@ -512,7 +512,7 @@
             <mxPoint x="31" y="-399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2XWLFZcMkpfn7Vz91KI-232" value="G&lt;sub&gt;D&lt;/sub&gt;(S)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="s2XWLFZcMkpfn7Vz91KI-232" value="G&lt;sub style=&quot;font-size: 18px;&quot;&gt;T1&lt;/sub&gt;(S)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-93" y="-494" width="89" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="s2XWLFZcMkpfn7Vz91KI-236" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="s2XWLFZcMkpfn7Vz91KI-232">
