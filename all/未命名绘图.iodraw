@@ -82,12 +82,6 @@
         <mxCell id="s2XWLFZcMkpfn7Vz91KI-46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;G&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;sub&gt;S2&lt;/sub&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;(S)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-188" y="492.5" width="89" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="s2XWLFZcMkpfn7Vz91KI-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="s2XWLFZcMkpfn7Vz91KI-46">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-87" y="530" as="sourcePoint" />
-            <mxPoint x="-37" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
