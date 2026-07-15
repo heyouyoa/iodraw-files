@@ -55,8 +55,8 @@
             <mxPoint x="-693" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2XWLFZcMkpfn7Vz91KI-37" value="G&lt;sub style=&quot;font-size: 18px;&quot;&gt;T1&lt;/sub&gt;(S)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-669" y="493.75" width="89" height="42.5" as="geometry" />
+        <mxCell id="s2XWLFZcMkpfn7Vz91KI-37" value="G&lt;sub style=&quot;font-size: 18px;&quot;&gt;T2&lt;/sub&gt;(S)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-676" y="493.75" width="89" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
