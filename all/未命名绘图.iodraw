@@ -484,11 +484,10 @@
             <mxPoint x="-274" y="-417" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2XWLFZcMkpfn7Vz91KI-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2XWLFZcMkpfn7Vz91KI-214" target="s2XWLFZcMkpfn7Vz91KI-208">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s2XWLFZcMkpfn7Vz91KI-214" value="G&lt;sub style=&quot;font-size: 18px;&quot;&gt;T1&lt;/sub&gt;(S)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-373" y="-540" width="89" height="42.5" as="geometry" />
+        <mxCell id="s2XWLFZcMkpfn7Vz91KI-215" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="s2XWLFZcMkpfn7Vz91KI-208">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-339" y="-458" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
