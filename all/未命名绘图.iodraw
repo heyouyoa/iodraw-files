@@ -113,12 +113,18 @@
             <mxPoint x="-39" y="517" as="sourcePoint" />
             <mxPoint x="-320" y="700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-44" y="696" />
+              <mxPoint x="-39" y="693" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="s2XWLFZcMkpfn7Vz91KI-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s2XWLFZcMkpfn7Vz91KI-87" target="s2XWLFZcMkpfn7Vz91KI-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s2XWLFZcMkpfn7Vz91KI-87" value="k&lt;sub&gt;m1&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-458" y="672" width="89" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="s2XWLFZcMkpfn7Vz91KI-88" value="" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-642.5" y="663.25" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
