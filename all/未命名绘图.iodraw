@@ -13,7 +13,7 @@
             <mxPoint x="-920" y="514.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2XWLFZcMkpfn7Vz91KI-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="s2XWLFZcMkpfn7Vz91KI-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shape=umlDestroy;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
           <mxGeometry x="-920" y="500" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s2XWLFZcMkpfn7Vz91KI-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s2XWLFZcMkpfn7Vz91KI-2">
